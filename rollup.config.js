@@ -38,6 +38,7 @@ const createConfig = (filename) => ({
 
 export default [
     'index',
+    'confirm',
     'component',
     'fetch',
     'interval',
